@@ -13,3 +13,13 @@ print(id(t),t)
 t*=2
 print(id(t),t)
 print('在不可变序列上使用 *= 会产生一个新的对象 ')
+
+t = [1,2,3]
+print(t)
+print(t*2)
+def doubleValue(x):
+    return 2*x
+print(id(t))
+# 返回一个新的对象
+t=list(map(doubleValue,t))
+print(id(t))

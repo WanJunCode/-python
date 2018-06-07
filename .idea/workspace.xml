@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="851a5868-67ec-4529-bfee-8e4af3993294" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-18根据一个分数找到它对应的成绩.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-8-1bisect来搜索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-8-2test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-6简单的增量赋值.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-6简单的增量赋值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrenckDeck.py" beforeDir="false" afterPath="$PROJECT_DIR$/FrenckDeck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-7sort方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-7sort方法.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,77 +16,83 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$2_6.coverage" NAME="2-6简单的增量赋值 Coverage Results" MODIFIED="1525402147866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$FrenckDeck.coverage" NAME="FrenckDeck Coverage Results" MODIFIED="1524362541125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_7sort.coverage" NAME="2-7sort方法 Coverage Results" MODIFIED="1525402192799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$addmul.coverage" NAME="对序列使用add加mul Coverage Results" MODIFIED="1524403179379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_23.coverage" NAME="2-23使用双向队列 Coverage Results" MODIFIED="1524531242913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$2_9_1.coverage" NAME="2-9-1数组读取 Coverage Results" MODIFIED="1524494781152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_3_3.coverage" NAME="2-3-3嵌套元组拆包 Coverage Results" MODIFIED="1525619929731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test123.coverage" NAME="test123 Coverage Results" MODIFIED="1525624141088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1525619457384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
     <SUITE FILE_PATH="coverage/Python$.coverage" NAME="定位参数到仅限关键字参数 Coverage Results" MODIFIED="1525657923548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1528357468405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$3_6StrKeyDict0.coverage" NAME="3-6使用StrKeyDict0 Coverage Results" MODIFIED="1524554817315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$2_18.coverage" NAME="2-18根据一个分数找到它对应的成绩 Coverage Results" MODIFIED="1528360229827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_9_3NumpyScipy.coverage" NAME="2-9-3Numpy和Scipy使用 Coverage Results" MODIFIED="1525404659681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Vector.coverage" NAME="Vector Coverage Results" MODIFIED="1524364671224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1525619419431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
-    <SUITE FILE_PATH="coverage/Python$2_9.coverage" NAME="2-9定义和使用具名元组 Coverage Results" MODIFIED="1525620006823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$FrenckDeck.coverage" NAME="FrenckDeck Coverage Results" MODIFIED="1528356033902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1525619435643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
     <SUITE FILE_PATH="coverage/Python$bisect.coverage" NAME="用bisect来搜索 Coverage Results" MODIFIED="1524478602411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test Coverage Results" MODIFIED="1525653548549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6-1策略模式" />
+    <SUITE FILE_PATH="coverage/fluent_python$2_6.coverage" NAME="2-6简单的增量赋值 Coverage Results" MODIFIED="1528357998541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$2_8_2test.coverage" NAME="2-8-2test Coverage Results" MODIFIED="1528359924529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$2_6.coverage" NAME="2-6简单的增量赋值 Coverage Results" MODIFIED="1525402147866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$FrenckDeck.coverage" NAME="FrenckDeck Coverage Results" MODIFIED="1524362541125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$addmul.coverage" NAME="对序列使用add加mul Coverage Results" MODIFIED="1524403179379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$2_9_1.coverage" NAME="2-9-1数组读取 Coverage Results" MODIFIED="1524494781152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$3_6StrKeyDict0.coverage" NAME="3-6使用StrKeyDict0 Coverage Results" MODIFIED="1524554817315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Vector.coverage" NAME="Vector Coverage Results" MODIFIED="1524364671224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$2_9.coverage" NAME="2-9定义和使用具名元组 Coverage Results" MODIFIED="1525620006823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1525619447130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
-    <SUITE FILE_PATH="coverage/fluent_python$2_6.coverage" NAME="2-6简单的增量赋值 Coverage Results" MODIFIED="1528357538205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$2_8_1bisect.coverage" NAME="2-8-1bisect来搜索 Coverage Results" MODIFIED="1528359585975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_21.coverage" NAME="2-21内存视图 Coverage Results" MODIFIED="1525620144494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$bytes.coverage" NAME="学习bytes Coverage Results" MODIFIED="1525621030649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python数据类型" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="找出模块中的全部策略.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py">
+      <file leaf-file-name="2-7sort方法.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-7sort方法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1525">
-              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-8-1bisect来搜索.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-8-1bisect来搜索.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" lean-forward="true" selection-end-line="19" selection-end-column="19" />
               <folding>
-                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="定位参数到仅限关键字参数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/定位参数到仅限关键字参数.py">
+      <file leaf-file-name="2-8-2test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-8-2test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="425">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-3-3嵌套元组拆包.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2-3-3嵌套元组拆包.py">
+      <file leaf-file-name="2-18根据一个分数找到它对应的成绩.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-18根据一个分数找到它对应的成绩.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-7sort方法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2-7sort方法.py">
+      <file leaf-file-name="bisect.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python/Lib/bisect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-9-1数组读取.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2-9-1数组读取.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="817">
+              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -123,17 +130,17 @@
       <file leaf-file-name="2-5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="117">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-6简单的增量赋值.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2-6简单的增量赋值.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-6简单的增量赋值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -165,7 +172,6 @@
         <option value="$PROJECT_DIR$/对序列使用add加mul.py" />
         <option value="$PROJECT_DIR$/2-3-3嵌套元组拆包.py" />
         <option value="$PROJECT_DIR$/一个谜题.py" />
-        <option value="$PROJECT_DIR$/2-7sort方法.py" />
         <option value="$PROJECT_DIR$/用bisect来搜索.py" />
         <option value="$PROJECT_DIR$/2-9-1数组读取.py" />
         <option value="$PROJECT_DIR$/2-9-3Numpy和Scipy使用.py" />
@@ -195,6 +201,10 @@
         <option value="$PROJECT_DIR$/FrenckDeck.py" />
         <option value="$PROJECT_DIR$/2-5.py" />
         <option value="$PROJECT_DIR$/2-6简单的增量赋值.py" />
+        <option value="$PROJECT_DIR$/2-7sort方法.py" />
+        <option value="$PROJECT_DIR$/2-8-1bisect来搜索.py" />
+        <option value="$PROJECT_DIR$/2-8-2test.py" />
+        <option value="$PROJECT_DIR$/2-18根据一个分数找到它对应的成绩.py" />
       </list>
     </option>
   </component>
@@ -207,7 +217,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="32" />
     <option name="y" value="6" />
     <option name="width" value="1346" />
@@ -251,8 +261,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-6简单的增量赋值">
-    <configuration name="使用函数实现策略模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2-18根据一个分数找到它对应的成绩">
+    <configuration name="2-18根据一个分数找到它对应的成绩" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,12 +270,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-1策略模式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-1策略模式/使用函数实现策略模式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-18根据一个分数找到它对应的成绩.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +319,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="FrenckDeck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2-8-1bisect来搜索" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,7 +332,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FrenckDeck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-8-1bisect来搜索.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2-8-2test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="流畅的Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-8-2test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,39 +414,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="流畅的Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-1策略模式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-1策略模式/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.使用函数实现策略模式" />
-      <item itemvalue="Python.FrenckDeck" />
       <item itemvalue="Python.2-5" />
       <item itemvalue="Python.2-6简单的增量赋值" />
+      <item itemvalue="Python.2-8-1bisect来搜索" />
+      <item itemvalue="Python.2-8-2test" />
+      <item itemvalue="Python.2-18根据一个分数找到它对应的成绩" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2-18根据一个分数找到它对应的成绩" />
+        <item itemvalue="Python.2-8-2test" />
+        <item itemvalue="Python.2-8-1bisect来搜索" />
         <item itemvalue="Python.2-6简单的增量赋值" />
         <item itemvalue="Python.2-5" />
-        <item itemvalue="Python.FrenckDeck" />
-        <item itemvalue="Python.使用函数实现策略模式" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -432,6 +442,21 @@
       <option name="presentableId" value="Default" />
       <updated>1524328291321</updated>
     </task>
+    <task id="LOCAL-00001" summary="modify">
+      <created>1528357600160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528357600160</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modify">
+      <created>1528358150835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528358150835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,25 +514,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FrenckDeck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/2075865430/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/Vector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FrenckDeck.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/2075865430/math.py" />
     <entry file="file://E:/python36/Lib/ntpath.py" />
     <entry file="file://E:/python36/Lib/collections/__init__.py" />
@@ -719,13 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-7sort方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-9-1数组读取.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -757,17 +761,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-5.py">
+    <entry file="file://$PROJECT_DIR$/2-6简单的增量赋值.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-6简单的增量赋值.py">
+    <entry file="file://$PROJECT_DIR$/2-5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="117">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-7sort方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-8-1bisect来搜索.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-8-2test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/bisect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-18根据一个分数找到它对应的成绩.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>

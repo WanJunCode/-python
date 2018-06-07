@@ -1,6 +1,7 @@
 import collections
+from random import choice
 
-Card=collections.namedtuple('Card',['rank','suit'])
+Card=collections.namedtuple(typename='Card',field_names=['rank','suit'])
 
 class FrenckDeck:
     ranks=[str(n) for n in range(2,11)]+ list('JQKA')
@@ -21,7 +22,6 @@ print(beer_card)
 deck=FrenckDeck()
 print(len(deck))
 
-from random import choice
 print(choice(deck))
 
 # 实现 __getitem__ 方法，该类变为可迭代形式

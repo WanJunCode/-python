@@ -1,8 +1,12 @@
 from array import array
 numbers=array('h',[-2,-1,0,1,2])
+print(type(numbers))
+print(type(numbers[0]))
+
 # 内存视图
 memv=memoryview(numbers)
-print('len = ',len(memv))
+print("len numbers = ",len(numbers))
+print('len memv = ',len(memv))
 
 print('memv[0] =',memv[0])
 

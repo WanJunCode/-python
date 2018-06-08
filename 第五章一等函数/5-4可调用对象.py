@@ -1,0 +1,1 @@
+print([callable(obj) for obj in [abs,str,13]])

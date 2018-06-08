@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="851a5868-67ec-4529-bfee-8e4af3993294" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/6-1策略模式/promotions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promotions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内省.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-3使用装饰器改进策略模式.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第五章一等函数/5-8bingocage.py" beforeDir="false" afterPath="$PROJECT_DIR$/第五章一等函数/5-8bingocage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,15 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5-1把函数视作对象.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第五章一等函数/5-1把函数视作对象.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="5-4可调用对象.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第五章一等函数/5-4可调用对象.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +92,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7-2Python何时执行装饰器.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7-2Python何时执行装饰器.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="550">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7-3使用装饰器改进策略模式.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-3使用装饰器改进策略模式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -143,8 +137,8 @@
       <file leaf-file-name="promotions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/promotions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="63" column="48" lean-forward="true" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+            <state relative-caret-position="317">
+              <caret line="45" selection-start-line="45" selection-end-line="59" selection-end-column="12" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -182,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Vector.py" />
         <option value="$PROJECT_DIR$/把元组用作记录.py" />
         <option value="$PROJECT_DIR$/2-9定义和使用具名元组.py" />
         <option value="$PROJECT_DIR$/对序列使用add加mul.py" />
@@ -233,6 +226,7 @@
         <option value="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" />
         <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py" />
         <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py" />
+        <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-3使用装饰器改进策略模式.py" />
       </list>
     </option>
   </component>
@@ -266,6 +260,11 @@
             <path>
               <item name="fluent-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="fluent-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fluent-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fluent-python" type="462c0819:PsiDirectoryNode" />
+              <item name="6-1策略模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fluent-python" type="b2602c69:ProjectViewProjectNode" />
@@ -519,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528426083179</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="更新了第七章">
+      <created>1528428062837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528428062837</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,9 +537,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.32089552" />
+      <window_info anchor="right" id="Run" order="5" visible="true" weight="0.32089552" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="SciView" order="1" />
@@ -580,7 +586,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modify" />
     <MESSAGE value="更新第五章" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新第五章" />
+    <MESSAGE value="更新了第七章" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了第七章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -588,13 +595,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前几章/3-9不可变映射类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.ipynb" />
     <entry file="file://$PROJECT_DIR$/前几章/test.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -880,16 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/promotions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="63" column="48" lean-forward="true" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/内省.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -919,8 +909,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="550">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promotions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="45" selection-start-line="45" selection-end-line="59" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-3使用装饰器改进策略模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>

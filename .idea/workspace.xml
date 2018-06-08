@@ -2,42 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="851a5868-67ec-4529-bfee-8e4af3993294" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/前几章/2-20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前几章/3-1泛映射类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前几章/3-2字典推导的应用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第五章一等函数/5-1把函数视作对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第五章一等函数/5-4可调用对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第五章一等函数/5-8bingocage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-1策略模式/promotions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promotions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内省.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-18根据一个分数找到它对应的成绩.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-18根据一个分数找到它对应的成绩.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-21内存视图.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-21内存视图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-23使用双向队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-23使用双向队列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-3-3嵌套元组拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-3-3嵌套元组拆包.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-6简单的增量赋值.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-6简单的增量赋值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-7sort方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-7sort方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-8-1bisect来搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-8-1bisect来搜索.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-8-2test.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-8-2test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-9-1数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-9-1数组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-9-1数组读取.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-9-1数组读取.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-9-3Numpy和Scipy使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-9-3Numpy和Scipy使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-9定义和使用具名元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/2-9定义和使用具名元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-6-2子类化UserDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/3-6-2子类化UserDict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-6使用StrKeyDict0.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/3-6使用StrKeyDict0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-9不可变映射类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/3-9不可变映射类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrenckDeck.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/FrenckDeck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/Vector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test123.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/test123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/一个谜题.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/一个谜题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/单进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/单进程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/定位参数到仅限关键字参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/定位参数到仅限关键字参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/对序列使用add加mul.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/对序列使用add加mul.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/把元组用作记录.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/把元组用作记录.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/用bisect来搜索.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/用bisect来搜索.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程改写run.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/进程改写run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程无join.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/进程无join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程无join2.py" beforeDir="false" afterPath="$PROJECT_DIR$/前几章/进程无join2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第五章一等函数/5-8bingocage.py" beforeDir="false" afterPath="$PROJECT_DIR$/第五章一等函数/5-8bingocage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,9 +27,11 @@
     <SUITE FILE_PATH="coverage/Python$.coverage" NAME="定位参数到仅限关键字参数 Coverage Results" MODIFIED="1525657923548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1528357468405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$2_21.coverage" NAME="2-21内存视图 Coverage Results" MODIFIED="1528361697736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$.coverage" NAME="内省 Coverage Results" MODIFIED="1528427278648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$2_18.coverage" NAME="2-18根据一个分数找到它对应的成绩 Coverage Results" MODIFIED="1528360229827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_9_3NumpyScipy.coverage" NAME="2-9-3Numpy和Scipy使用 Coverage Results" MODIFIED="1525404659681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1525619419431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
+    <SUITE FILE_PATH="coverage/fluent_python$7_1.coverage" NAME="7-1装饰器基础 Coverage Results" MODIFIED="1528427589432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/fluent_python$FrenckDeck.coverage" NAME="FrenckDeck Coverage Results" MODIFIED="1528356033902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1525619435643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
     <SUITE FILE_PATH="coverage/Python$bisect.coverage" NAME="用bisect来搜索 Coverage Results" MODIFIED="1524478602411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -74,51 +48,17 @@
     <SUITE FILE_PATH="coverage/fluent_python$2_20.coverage" NAME="2-20 Coverage Results" MODIFIED="1528361491851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$3_2.coverage" NAME="3-2字典推导的应用 Coverage Results" MODIFIED="1528366879297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_9.coverage" NAME="2-9定义和使用具名元组 Coverage Results" MODIFIED="1525620006823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$7_2Python.coverage" NAME="7-2Python何时执行装饰器 Coverage Results" MODIFIED="1528428011674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/fluent_python$5_1.coverage" NAME="5-1把函数视作对象 Coverage Results" MODIFIED="1528368577782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章一等函数" />
     <SUITE FILE_PATH="coverage/Python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1525619447130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
     <SUITE FILE_PATH="coverage/fluent_python$2_8_1bisect.coverage" NAME="2-8-1bisect来搜索 Coverage Results" MODIFIED="1528359585975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_21.coverage" NAME="2-21内存视图 Coverage Results" MODIFIED="1525620144494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$promotions.coverage" NAME="promotions Coverage Results" MODIFIED="1528427097217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$5_4.coverage" NAME="5-4可调用对象 Coverage Results" MODIFIED="1528375264542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章一等函数" />
     <SUITE FILE_PATH="coverage/Python$bytes.coverage" NAME="学习bytes Coverage Results" MODIFIED="1525621030649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python数据类型" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2-21内存视图.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前几章/2-21内存视图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-23使用双向队列.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前几章/2-23使用双向队列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-1泛映射类型.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前几章/3-1泛映射类型.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3-2字典推导的应用.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前几章/3-2字典推导的应用.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="5-1把函数视作对象.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第五章一等函数/5-1把函数视作对象.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,11 +77,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5-8bingocage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5-8bingocage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第五章一等函数/5-8bingocage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="300">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="找出模块中的全部策略.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="71" column="33" lean-forward="true" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7-1装饰器基础.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7-2Python何时执行装饰器.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promotions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-1策略模式/promotions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="692">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="内省.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/内省.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promotions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/promotions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="63" column="48" lean-forward="true" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,27 +157,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18575">
               <caret line="751" selection-start-line="751" selection-end-line="751" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-20.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前几章/2-20.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-643338342/array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7675">
-              <caret line="307" column="17" selection-start-line="307" selection-start-column="8" selection-end-line="307" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -226,7 +211,6 @@
         <option value="$PROJECT_DIR$/6-1策略模式/经典策略模式.py" />
         <option value="$PROJECT_DIR$/6-1策略模式/使用函数实现策略模式.py" />
         <option value="$PROJECT_DIR$/6-1策略模式/选择最佳策略.py" />
-        <option value="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" />
         <option value="$PROJECT_DIR$/定位参数到仅限关键字参数.py" />
         <option value="$PROJECT_DIR$/FrenckDeck.py" />
         <option value="$PROJECT_DIR$/2-5.py" />
@@ -242,6 +226,13 @@
         <option value="$PROJECT_DIR$/第五章一等函数/5-1把函数视作对象.py" />
         <option value="$PROJECT_DIR$/第五章一等函数/5-4可调用对象.py" />
         <option value="$PROJECT_DIR$/第五章一等函数/5-8bingocage.py" />
+        <option value="$PROJECT_DIR$/6-1策略模式/promotions.py" />
+        <option value="$PROJECT_DIR$/6-1策略模式/内省.py" />
+        <option value="$PROJECT_DIR$/promotions.py" />
+        <option value="$PROJECT_DIR$/内省.py" />
+        <option value="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" />
+        <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py" />
+        <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py" />
       </list>
     </option>
   </component>
@@ -279,7 +270,7 @@
             <path>
               <item name="fluent-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="fluent-python" type="462c0819:PsiDirectoryNode" />
-              <item name="第五章一等函数" type="462c0819:PsiDirectoryNode" />
+              <item name="第7章函数装饰器和闭包" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +283,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wan\Desktop\fluent-python" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wan\Desktop\fluent-python" />
       <recent name="C:\Users\Wan\Desktop\fluent-python\前几章" />
     </key>
   </component>
@@ -308,8 +303,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.定位参数到仅限关键字参数">
-    <configuration name="定位参数到仅限关键字参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.7-2Python何时执行装饰器">
+    <configuration name="找出模块中的全部策略" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,50 +312,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-1策略模式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/定位参数到仅限关键字参数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="2-20" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="流畅的Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="2-21内存视图" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="流畅的Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-21内存视图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,7 +342,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="3-1泛映射类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="内省" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,7 +355,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3-1泛映射类型.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内省.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,25 +380,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5-1把函数视作对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="流畅的Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五章一等函数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第五章一等函数/5-1把函数视作对象.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="5-4可调用对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -461,19 +399,77 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="7-1装饰器基础" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="流畅的Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章函数装饰器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="7-2Python何时执行装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="流畅的Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章函数装饰器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="promotions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="流畅的Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/promotions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.定位参数到仅限关键字参数" />
-      <item itemvalue="Python.2-20" />
-      <item itemvalue="Python.2-21内存视图" />
-      <item itemvalue="Python.3-1泛映射类型" />
-      <item itemvalue="Python.5-1把函数视作对象" />
+      <item itemvalue="Python.找出模块中的全部策略" />
+      <item itemvalue="Python.promotions" />
+      <item itemvalue="Python.内省" />
+      <item itemvalue="Python.7-1装饰器基础" />
+      <item itemvalue="Python.7-2Python何时执行装饰器" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5-1把函数视作对象" />
-        <item itemvalue="Python.3-1泛映射类型" />
-        <item itemvalue="Python.2-21内存视图" />
-        <item itemvalue="Python.2-20" />
+        <item itemvalue="Python.7-2Python何时执行装饰器" />
+        <item itemvalue="Python.7-1装饰器基础" />
+        <item itemvalue="Python.内省" />
+        <item itemvalue="Python.promotions" />
+        <item itemvalue="Python.找出模块中的全部策略" />
       </list>
     </recent_temporary>
   </component>
@@ -509,20 +505,35 @@
       <option name="project" value="LOCAL" />
       <updated>1528360287709</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新第五章">
+      <created>1528425963935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528425963935</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新第五章">
+      <created>1528426083179</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528426083179</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="right" id="Run" order="5" weight="0.3128998" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.32089552" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="SciView" order="1" />
@@ -568,20 +579,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modify" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify" />
+    <MESSAGE value="更新第五章" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新第五章" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/newtext.txt" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/2075865430/array.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/2075865430/time.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/2075865430/_collections.py" />
-    <entry file="file://$PROJECT_DIR$/前几章/3-6-2子类化UserDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前几章/3-9不可变映射类型.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -704,13 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1250">
           <caret line="51" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -866,8 +865,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第五章一等函数/5-8bingocage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-1策略模式/promotions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promotions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="63" column="48" lean-forward="true" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内省.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-1策略模式/找出模块中的全部策略.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="71" column="33" lean-forward="true" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-2Python何时执行装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>

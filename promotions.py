@@ -59,15 +59,18 @@ def LargeOrder_promo(order):
         return order.total() * .07
     return 0
 
-promos=[globals()[name] for name in globals()
-        if name.endswith('_promo')
-        and name !='best_promo']
 
 def best_promo(order):
     return max(promo(order) for promo in promos)
 
 
+# print(Order(joe,cart,best_promo))
+# print(Order(ann,cart,best_promo))
+
 if __name__=="__main__":
+    promos = [globals()[name] for name in globals()
+              if name.endswith('_promo')
+              and name != 'best_promo']
 
     joe = Customer('John Doe', 0)
     ann = Customer('Ann', 1050)
@@ -78,5 +81,3 @@ if __name__=="__main__":
            and name != 'best_promo'])
     for method in promos:
         print(method)
-    # print(Order(joe,cart,best_promo))
-    # print(Order(ann,cart,best_promo))

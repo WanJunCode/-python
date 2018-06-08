@@ -14,7 +14,7 @@ class BingoCage:
     def __call__(self):
         return self.pick()
 
-bingo=BingoCage(range(5))
+bingo = BingoCage(range(5))
 print(bingo.pick())
 print(bingo.pick())
 

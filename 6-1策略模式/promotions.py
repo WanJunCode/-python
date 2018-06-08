@@ -63,12 +63,15 @@ promos=[globals()[name] for name in globals()
         if name.endswith('_promo')
         and name !='best_promo']
 
+
 def best_promo(order):
     return max(promo(order) for promo in promos)
 
 
-if __name__=="__main__":
+# print(Order(joe,cart,best_promo))
+# print(Order(ann,cart,best_promo))
 
+if __name__=="__main__":
     joe = Customer('John Doe', 0)
     ann = Customer('Ann', 1050)
     cart = [LineItem('banana', 4, .5),
@@ -78,5 +81,3 @@ if __name__=="__main__":
            and name != 'best_promo'])
     for method in promos:
         print(method)
-    # print(Order(joe,cart,best_promo))
-    # print(Order(ann,cart,best_promo))

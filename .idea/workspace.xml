@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="851a5868-67ec-4529-bfee-8e4af3993294" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-15一个简单的装饰器输出函数的运行时间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-17改进后的clock装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-18使用lru_cache做备忘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-19使用缓存实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-21singledispatch单分派泛函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/clockdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-23接受参数的装饰器.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-21singledispatch单分派泛函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/第7章函数装饰器和闭包/7-21singledispatch单分派泛函数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,6 +40,7 @@
     <SUITE FILE_PATH="coverage/fluent_python$7_18lru_cache.coverage" NAME="7-18使用lru_cache做备忘 Coverage Results" MODIFIED="1528513504152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python$2_6.coverage" NAME="2-6简单的增量赋值 Coverage Results" MODIFIED="1525402147866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$FrenckDeck.coverage" NAME="FrenckDeck Coverage Results" MODIFIED="1524362541125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$7_23.coverage" NAME="7-23接受参数的装饰器 Coverage Results" MODIFIED="1528516303100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python$addmul.coverage" NAME="对序列使用add加mul Coverage Results" MODIFIED="1524403179379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$2_9_1.coverage" NAME="2-9-1数组读取 Coverage Results" MODIFIED="1524494781152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$7_8.coverage" NAME="7-8计算移动平均值的类 Coverage Results" MODIFIED="1528466718904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
@@ -59,7 +56,7 @@
     <SUITE FILE_PATH="coverage/fluent_python$7_15.coverage" NAME="7-15一个简单的装饰器输出函数的运行时间 Coverage Results" MODIFIED="1528470209451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1525619447130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/画图" />
     <SUITE FILE_PATH="coverage/fluent_python$2_8_1bisect.coverage" NAME="2-8-1bisect来搜索 Coverage Results" MODIFIED="1528359585975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fluent_python$7_21singledispatch.coverage" NAME="7-21singledispatch单分派泛函数 Coverage Results" MODIFIED="1528515584031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/fluent_python$7_21singledispatch.coverage" NAME="7-21singledispatch单分派泛函数 Coverage Results" MODIFIED="1528515767958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第7章函数装饰器和闭包" />
     <SUITE FILE_PATH="coverage/Python$2_21.coverage" NAME="2-21内存视图 Coverage Results" MODIFIED="1525620144494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$promotions.coverage" NAME="promotions Coverage Results" MODIFIED="1528427097217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$5_4.coverage" NAME="5-4可调用对象 Coverage Results" MODIFIED="1528375264542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章一等函数" />
@@ -67,15 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7-9计算移动平均值的高阶函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-9计算移动平均值的高阶函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="7-14计算移动平均值nonlocal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-14计算移动平均值nonlocal.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -139,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7-21singledispatch单分派泛函数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7-21singledispatch单分派泛函数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-21singledispatch单分派泛函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="775">
+              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -151,11 +139,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="7-23接受参数的装饰器.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-23接受参数的装饰器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-643338342/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12350">
-              <caret line="494" column="4" selection-start-line="494" selection-start-column="4" selection-end-line="494" selection-end-column="4" />
+            <state relative-caret-position="372">
+              <caret line="4332" column="8" selection-start-line="4332" selection-start-column="8" selection-end-line="4332" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -190,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3-6-2子类化UserDict.py" />
         <option value="$PROJECT_DIR$/3-9不可变映射类型.py" />
         <option value="$PROJECT_DIR$/test.ipynb" />
         <option value="$PROJECT_DIR$/test.py" />
@@ -241,6 +237,7 @@
         <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-18使用lru_cache做备忘.py" />
         <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-19使用缓存实现.py" />
         <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-21singledispatch单分派泛函数.py" />
+        <option value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-23接受参数的装饰器.py" />
       </list>
     </option>
   </component>
@@ -311,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7-21singledispatch单分派泛函数">
+  <component name="RunManager" selected="Python.7-23接受参数的装饰器">
     <configuration name="2-8-2test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,25 +342,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-1装饰器基础.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="7-15一个简单的装饰器输出函数的运行时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="流畅的Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章函数装饰器和闭包" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-15一个简单的装饰器输出函数的运行时间.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,6 +423,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="7-23接受参数的装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="流畅的Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章函数装饰器和闭包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章函数装饰器和闭包/7-23接受参数的装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="7-9计算移动平均值的高阶函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="流畅的Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -465,19 +462,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.7-15一个简单的装饰器输出函数的运行时间" />
       <item itemvalue="Python.7-17改进后的clock装饰器" />
       <item itemvalue="Python.7-18使用lru_cache做备忘" />
       <item itemvalue="Python.7-19使用缓存实现" />
       <item itemvalue="Python.7-21singledispatch单分派泛函数" />
+      <item itemvalue="Python.7-23接受参数的装饰器" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7-23接受参数的装饰器" />
         <item itemvalue="Python.7-21singledispatch单分派泛函数" />
         <item itemvalue="Python.7-19使用缓存实现" />
         <item itemvalue="Python.7-18使用lru_cache做备忘" />
         <item itemvalue="Python.7-17改进后的clock装饰器" />
-        <item itemvalue="Python.7-15一个简单的装饰器输出函数的运行时间" />
       </list>
     </recent_temporary>
   </component>
@@ -548,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528467690186</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="装饰器">
+      <created>1528515656145</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1528515656145</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -610,7 +614,8 @@
     <MESSAGE value="modify" />
     <MESSAGE value="更新第五章" />
     <MESSAGE value="更新了第七章" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了第七章" />
+    <MESSAGE value="装饰器" />
+    <option name="LAST_COMMIT_MESSAGE" value="装饰器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -618,13 +623,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前几章/2-9-3Numpy和Scipy使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前几章/2-9定义和使用具名元组.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -914,13 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-643338342/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12350">
-          <caret line="494" column="4" selection-start-line="494" selection-start-column="4" selection-end-line="494" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-15一个简单的装饰器输出函数的运行时间.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -967,11 +958,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-21singledispatch单分派泛函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        <state relative-caret-position="775">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-643338342/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="4332" column="8" selection-start-line="4332" selection-start-column="8" selection-end-line="4332" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第7章函数装饰器和闭包/7-23接受参数的装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>

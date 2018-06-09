@@ -3,8 +3,8 @@ import numbers
 from collections import abc
 from functools import singledispatch
 
-# 单分派 可以解决 python 没有参数重载
 
+# 支持模块化扩展，各个模块可以为它支持的各个类型注册一个专门函数
 @singledispatch
 def htmlize(obj):
     content = html.escape(repr(obj))

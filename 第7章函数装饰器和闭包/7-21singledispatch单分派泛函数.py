@@ -3,7 +3,6 @@ import numbers
 from collections import abc
 from functools import singledispatch
 
-
 # 支持模块化扩展，各个模块可以为它支持的各个类型注册一个专门函数
 @singledispatch
 def htmlize(obj):

@@ -3,6 +3,7 @@ def make_averager():
     total = 0
 
     def averager(new_value):
+        # nonlocal 声明该变量不是局部变量
         nonlocal count,total
         count += 1
         total += new_value
@@ -18,6 +19,6 @@ if __name__=="__main__":
     print(avg(10))
     print(avg(11))
     print(avg(12))
-
+    print(' avg name = ',avg.__name__)
     print('avg 的局部变量 = ',avg.__code__.co_varnames)
     print('avg 的自由变量 = ',avg.__code__.co_freevars)

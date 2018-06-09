@@ -2,11 +2,14 @@
 
 import time
 
+# 装饰器clock 获得函数名 func
 def clock(func):
+    print('被装饰函数地址 = ', func)
+
+    # 函数 clocked 获得定位参数
     def clocked(*args):
         t0 = time.perf_counter()
         # func 得到被装饰函数的地址
-        print('被装饰函数地址 = ',func)
         result = func(*args)
         elapsed = time.perf_counter() - t0
         name = func.__name__

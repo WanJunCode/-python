@@ -1,5 +1,7 @@
 registry = []
 
+# 装饰器直接获得函数 func
+# 将函数名称添加后返回
 def register(func):
     print('running register(%s)'% func)
     registry.append(func)

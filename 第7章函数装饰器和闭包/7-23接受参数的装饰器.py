@@ -2,6 +2,7 @@ registry = set()
 
 def register(active = True):
     # 闭包
+    # decorate 接收 函数名称
     def decorate(func):
         print('running register(active=%s) -> decorate(%s)' % (active, func))
         if active:

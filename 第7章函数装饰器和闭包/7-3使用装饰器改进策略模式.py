@@ -1,6 +1,7 @@
 promos=[]
 
 def promotion(promo_func):
+    # 保存到全局变量 promos 中
     promos.append(promo_func)
     return promo_func
 

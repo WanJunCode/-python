@@ -1,5 +1,5 @@
 # 简单的装饰器基础
-
+# 该装饰器直接获得函数名称 func， 并将函数改变为 inner()
 def deco(func):
     def inner():
         print('running inner()')

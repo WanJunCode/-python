@@ -3,7 +3,7 @@ import functools
 
 def clock(func):
     @functools.wraps(func)
-    # 可以保证装饰器不会对被装饰函数造成影响 即 __name__ 不被改变
+    # 可以保证装饰器不会对被装饰函数造成影响 即 __name__ 不被改变,可以使用关键字参数
     def clocked(*args, **kwargs):
         t0 = time.time()
         result = func(*args, **kwargs)
